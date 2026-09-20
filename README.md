@@ -1,2 +1,2 @@
 # yoptakazic
-казик сделанный на yopta script на коленке по фану
+казик сделанный на [YoptaScript](https://github.com/samgozman/YoptaScript) на коленке по фану
